@@ -1,0 +1,17 @@
+{
+	"geode": "4.10.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "oliver.classic-portals",
+	"name": "Classic Portals",
+	"version": "v1.0.0",
+	"developer": "Oliver",
+	"description": "Renders the portals in a style similar to the classic look, restoring a simpler and cleaner appearance.",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	}
+}
